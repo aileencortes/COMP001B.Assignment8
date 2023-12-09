@@ -1,0 +1,24 @@
+
+body{
+    background-color: #f6ebbf
+}
+header{
+    text-align: center;
+    width: 100%;
+}
+h1{
+    
+    background-color: rgb(211, 125, 63);
+    color: white;
+    text-shadow: 2px 2px grey;
+    height: 40px;
+}
+
+
+p{
+
+    
+}
+p a:hover{
+    color: rgb(125, 139, 182);
+}
