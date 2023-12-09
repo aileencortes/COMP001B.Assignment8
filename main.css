@@ -8,12 +8,20 @@ header{
 }
 h1{
     
-    background-color: rgb(211, 125, 63);
+    background-color: #d37d3f;
     color: white;
     text-shadow: 2px 2px grey;
     height: 40px;
 }
 
+h2{
+    background-color: #dca782;
+    width: 90%;
+    margin-left: 14px;
+    padding-left: 10px;
+    color: rgb(95, 70, 58);
+    text-shadow: 1px 1px rgb(214, 177, 113)
+}
 
 p{
 
